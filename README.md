@@ -1,1 +1,1 @@
-DJ appliaction using JUCE and C++ 
+DJ application using JUCE and object oriented programming language C++
